@@ -38,7 +38,7 @@ Bo & Aaron
 
 ---
 
-##Attachment:
+##Draft Proposal:
 
 ###WTWY street teams
 
