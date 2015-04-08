@@ -1,5 +1,7 @@
 # Metis Data Science Cohort 3
 
+This is the best cohort of all time!
+
 
 ### Other repos:
 
