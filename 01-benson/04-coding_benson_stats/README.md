@@ -8,11 +8,11 @@
 
 **10:30 am**: Work on Benson!
 
-**12:00 am**: Food is the food of the soul
+**11:00 am**: Intro to Probability
 
-**1:30 am**: Hypothesis testing lecture
+**12:00 pm**: Food is the food of the soul
 
-**2:30 pm**: Back to work on Benson
+**1:30 pm**: Back to work on Benson
 
 This afternoon, you are working on Benson. Tomorrow after lunch, we will start with presentations, so by then you should have your [proposal](Structure_of_the_Benson_Proposal.md) and presentation ready. This means you want to start writing your proposal today.
 
