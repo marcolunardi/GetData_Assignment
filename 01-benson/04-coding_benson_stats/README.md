@@ -8,8 +8,6 @@
 
 **10:30 am**: Work on Benson!
 
-**11:00 am**: Intro to Probability
-
 **12:00 pm**: Food is the food of the soul
 
 **1:30 pm**: Back to work on Benson
