@@ -2,7 +2,7 @@
 
 **9:00 am**: Breakfast in the conference room!
 
-**9:30 am**: Intro to Probability
+**9:15 am**: [Git branches and submitting work on GitHub](branch_submission.md)
 
 **10:30 am** Work on Benson projects
 
