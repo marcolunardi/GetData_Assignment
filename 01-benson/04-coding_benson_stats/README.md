@@ -6,7 +6,7 @@
 
 **9:45 am**: [Three Benson Solutions](three_Benson_solutions.ipynb)
 
-**11:30 am**: Work on Benson!
+**10:30 am**: Work on Benson!
 
 **12:00 pm**: Food is the food of the soul
 
