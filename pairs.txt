@@ -1,0 +1,222 @@
+# Pairing Schedule
+
+
+## April 15
+
+[('Iwona Pawelczak', 'Francesco Melpignano'),
+ ('Jerad Fields', 'Daniel Shin'),
+ ('Ha Bao Luu', 'Joe Dziados'),
+ ('Luc Demortier', 'Trevor Smith'),
+ ('Tohei Yokogawa', 'Gina Soileau'),
+ ('Nick Smit', 'Ilya Altshteyn'),
+ ('Revanth Reddy Garlapati', 'Marco Lunardi'),
+ ('Brian Kim', 'Peter Niessen'),
+ ('Aaron Mangum', 'Jaclyn E Weiser')],
+
+
+## April 16
+
+[('Iwona Pawelczak', 'Daniel Shin'),
+ ('Francesco Melpignano', 'Joe Dziados'),
+ ('Jerad Fields', 'Trevor Smith'),
+ ('Ha Bao Luu', 'Gina Soileau'),
+ ('Luc Demortier', 'Ilya Altshteyn'),
+ ('Tohei Yokogawa', 'Marco Lunardi'),
+ ('Nick Smit', 'Peter Niessen'),
+ ('Revanth Reddy Garlapati', 'Jaclyn E Weiser'),
+ ('Brian Kim', 'Aaron Mangum')],
+
+
+## April 17
+
+[('Iwona Pawelczak', 'Joe Dziados'),
+ ('Daniel Shin', 'Trevor Smith'),
+ ('Francesco Melpignano', 'Gina Soileau'),
+ ('Jerad Fields', 'Ilya Altshteyn'),
+ ('Ha Bao Luu', 'Marco Lunardi'),
+ ('Luc Demortier', 'Peter Niessen'),
+ ('Tohei Yokogawa', 'Jaclyn E Weiser'),
+ ('Nick Smit', 'Aaron Mangum'),
+ ('Revanth Reddy Garlapati', 'Brian Kim')],
+
+
+## April 20
+
+[('Iwona Pawelczak', 'Trevor Smith'),
+ ('Joe Dziados', 'Gina Soileau'),
+ ('Daniel Shin', 'Ilya Altshteyn'),
+ ('Francesco Melpignano', 'Marco Lunardi'),
+ ('Jerad Fields', 'Peter Niessen'),
+ ('Ha Bao Luu', 'Jaclyn E Weiser'),
+ ('Luc Demortier', 'Aaron Mangum'),
+ ('Tohei Yokogawa', 'Brian Kim'),
+ ('Nick Smit', 'Revanth Reddy Garlapati')],
+
+
+## April 21
+
+[('Iwona Pawelczak', 'Gina Soileau'),
+ ('Trevor Smith', 'Ilya Altshteyn'),
+ ('Joe Dziados', 'Marco Lunardi'),
+ ('Daniel Shin', 'Peter Niessen'),
+ ('Francesco Melpignano', 'Jaclyn E Weiser'),
+ ('Jerad Fields', 'Aaron Mangum'),
+ ('Ha Bao Luu', 'Brian Kim'),
+ ('Luc Demortier', 'Revanth Reddy Garlapati'),
+ ('Tohei Yokogawa', 'Nick Smit')],
+
+
+## April 22
+
+[('Iwona Pawelczak', 'Ilya Altshteyn'),
+ ('Gina Soileau', 'Marco Lunardi'),
+ ('Trevor Smith', 'Peter Niessen'),
+ ('Joe Dziados', 'Jaclyn E Weiser'),
+ ('Daniel Shin', 'Aaron Mangum'),
+ ('Francesco Melpignano', 'Brian Kim'),
+ ('Jerad Fields', 'Revanth Reddy Garlapati'),
+ ('Ha Bao Luu', 'Nick Smit'),
+ ('Luc Demortier', 'Tohei Yokogawa')],
+
+
+## April 23
+
+[('Iwona Pawelczak', 'Marco Lunardi'),
+ ('Ilya Altshteyn', 'Peter Niessen'),
+ ('Gina Soileau', 'Jaclyn E Weiser'),
+ ('Trevor Smith', 'Aaron Mangum'),
+ ('Joe Dziados', 'Brian Kim'),
+ ('Daniel Shin', 'Revanth Reddy Garlapati'),
+ ('Francesco Melpignano', 'Nick Smit'),
+ ('Jerad Fields', 'Tohei Yokogawa'),
+ ('Ha Bao Luu', 'Luc Demortier')],
+
+
+## April 24
+
+[('Iwona Pawelczak', 'Peter Niessen'),
+ ('Marco Lunardi', 'Jaclyn E Weiser'),
+ ('Ilya Altshteyn', 'Aaron Mangum'),
+ ('Gina Soileau', 'Brian Kim'),
+ ('Trevor Smith', 'Revanth Reddy Garlapati'),
+ ('Joe Dziados', 'Nick Smit'),
+ ('Daniel Shin', 'Tohei Yokogawa'),
+ ('Francesco Melpignano', 'Luc Demortier'),
+ ('Jerad Fields', 'Ha Bao Luu')],
+
+
+## April 27
+
+[('Iwona Pawelczak', 'Jaclyn E Weiser'),
+ ('Peter Niessen', 'Aaron Mangum'),
+ ('Marco Lunardi', 'Brian Kim'),
+ ('Ilya Altshteyn', 'Revanth Reddy Garlapati'),
+ ('Gina Soileau', 'Nick Smit'),
+ ('Trevor Smith', 'Tohei Yokogawa'),
+ ('Joe Dziados', 'Luc Demortier'),
+ ('Daniel Shin', 'Ha Bao Luu'),
+ ('Francesco Melpignano', 'Jerad Fields')],
+
+
+## April 28
+
+[('Iwona Pawelczak', 'Aaron Mangum'),
+ ('Jaclyn E Weiser', 'Brian Kim'),
+ ('Peter Niessen', 'Revanth Reddy Garlapati'),
+ ('Marco Lunardi', 'Nick Smit'),
+ ('Ilya Altshteyn', 'Tohei Yokogawa'),
+ ('Gina Soileau', 'Luc Demortier'),
+ ('Trevor Smith', 'Ha Bao Luu'),
+ ('Joe Dziados', 'Jerad Fields'),
+ ('Daniel Shin', 'Francesco Melpignano')],
+
+
+## April 29
+
+[('Iwona Pawelczak', 'Brian Kim'),
+ ('Aaron Mangum', 'Revanth Reddy Garlapati'),
+ ('Jaclyn E Weiser', 'Nick Smit'),
+ ('Peter Niessen', 'Tohei Yokogawa'),
+ ('Marco Lunardi', 'Luc Demortier'),
+ ('Ilya Altshteyn', 'Ha Bao Luu'),
+ ('Gina Soileau', 'Jerad Fields'),
+ ('Trevor Smith', 'Francesco Melpignano'),
+ ('Joe Dziados', 'Daniel Shin')],
+
+
+## April 30
+
+[('Iwona Pawelczak', 'Revanth Reddy Garlapati'),
+ ('Brian Kim', 'Nick Smit'),
+ ('Aaron Mangum', 'Tohei Yokogawa'),
+ ('Jaclyn E Weiser', 'Luc Demortier'),
+ ('Peter Niessen', 'Ha Bao Luu'),
+ ('Marco Lunardi', 'Jerad Fields'),
+ ('Ilya Altshteyn', 'Francesco Melpignano'),
+ ('Gina Soileau', 'Daniel Shin'),
+ ('Trevor Smith', 'Joe Dziados')],
+
+
+## May 1
+
+[('Iwona Pawelczak', 'Nick Smit'),
+ ('Revanth Reddy Garlapati', 'Tohei Yokogawa'),
+ ('Brian Kim', 'Luc Demortier'),
+ ('Aaron Mangum', 'Ha Bao Luu'),
+ ('Jaclyn E Weiser', 'Jerad Fields'),
+ ('Peter Niessen', 'Francesco Melpignano'),
+ ('Marco Lunardi', 'Daniel Shin'),
+ ('Ilya Altshteyn', 'Joe Dziados'),
+ ('Gina Soileau', 'Trevor Smith')],
+
+
+## May 4
+
+[('Iwona Pawelczak', 'Tohei Yokogawa'),
+ ('Nick Smit', 'Luc Demortier'),
+ ('Revanth Reddy Garlapati', 'Ha Bao Luu'),
+ ('Brian Kim', 'Jerad Fields'),
+ ('Aaron Mangum', 'Francesco Melpignano'),
+ ('Jaclyn E Weiser', 'Daniel Shin'),
+ ('Peter Niessen', 'Joe Dziados'),
+ ('Marco Lunardi', 'Trevor Smith'),
+ ('Ilya Altshteyn', 'Gina Soileau')],
+
+
+## May 5
+
+[('Iwona Pawelczak', 'Luc Demortier'),
+ ('Tohei Yokogawa', 'Ha Bao Luu'),
+ ('Nick Smit', 'Jerad Fields'),
+ ('Revanth Reddy Garlapati', 'Francesco Melpignano'),
+ ('Brian Kim', 'Daniel Shin'),
+ ('Aaron Mangum', 'Joe Dziados'),
+ ('Jaclyn E Weiser', 'Trevor Smith'),
+ ('Peter Niessen', 'Gina Soileau'),
+ ('Marco Lunardi', 'Ilya Altshteyn')],
+
+
+## May 6
+
+[('Iwona Pawelczak', 'Ha Bao Luu'),
+ ('Luc Demortier', 'Jerad Fields'),
+ ('Tohei Yokogawa', 'Francesco Melpignano'),
+ ('Nick Smit', 'Daniel Shin'),
+ ('Revanth Reddy Garlapati', 'Joe Dziados'),
+ ('Brian Kim', 'Trevor Smith'),
+ ('Aaron Mangum', 'Gina Soileau'),
+ ('Jaclyn E Weiser', 'Ilya Altshteyn'),
+ ('Peter Niessen', 'Marco Lunardi')],
+
+
+## May 7
+
+[('Iwona Pawelczak', 'Jerad Fields'),
+ ('Ha Bao Luu', 'Francesco Melpignano'),
+ ('Luc Demortier', 'Daniel Shin'),
+ ('Tohei Yokogawa', 'Joe Dziados'),
+ ('Nick Smit', 'Trevor Smith'),
+ ('Revanth Reddy Garlapati', 'Gina Soileau'),
+ ('Brian Kim', 'Ilya Altshteyn'),
+ ('Aaron Mangum', 'Marco Lunardi'),
+ ('Jaclyn E Weiser', 'Peter Niessen')]
