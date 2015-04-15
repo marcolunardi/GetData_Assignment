@@ -30,4 +30,5 @@ Work time for the rest of the day. Bored? Here are some things to do:
      * Find and complete an html tutorial, if you want/need that
      * Blog
 
-**5:00 pm** At some point, home.
+**5:30 pm** Guest Speaker: Cassie Kozyrkov, data scientist/statistician at Google
+
