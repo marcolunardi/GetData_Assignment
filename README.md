@@ -10,6 +10,7 @@ This is the best cohort of all time!
 
 ### Other documents:
 
+ * [Pairs](pairs.txt)
  * [Cohort 3 student roster info](https://docs.google.com/spreadsheets/d/12BZEXEcu4mmkWaM4_54Wp7FGmzWBBn_86WjuCIJ0jO8/edit?usp=sharing)
 
 
