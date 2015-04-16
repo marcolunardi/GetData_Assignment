@@ -12,4 +12,6 @@
 
 **1:30 pm**: Back to work
 
-**5:00 pm**: Thursday Night Lights
+**5:00 pm**: Linear regression with Vincent Tang
+
+**5:30 pm**: Q&A, home, etc.
