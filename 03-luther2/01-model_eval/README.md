@@ -6,7 +6,7 @@
 
 **9:45 am**: [Linear model evaluation and selection](Evaluation_and_Model_Selection_1.pdf)
 
-**10:45 am**: Work! (Now including [linear regression challenges part two](Linear_Regression_Challenges_2.md).)
+**10:45 am**: Work! (Now including linear regression challenges part two!)
 
 **12:00 am**: Essen.
 
