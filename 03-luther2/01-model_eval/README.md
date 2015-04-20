@@ -10,6 +10,6 @@
 
 **12:00 am**: Essen.
 
-**1:30 pm**: Even more work!
+**1:30 pm**: Probability! Special bonus round! Plus: Even more work!
 
 **5:00 pm**: The day ends, by some measures.
