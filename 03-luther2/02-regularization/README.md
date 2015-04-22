@@ -2,7 +2,7 @@
 
 **9:15 am**: [Pair Problem](pair.md)
 
-**9:45 am**: [More Model Selection and Regularization](Model_Selection_2_and_Regularization.pdf)
+**9:45 am**: More Model Selection and Regularization
 
 **10:45 am**: Brief overview of `statsmodels` vs. `sklearn` for linear regression.
 
