@@ -4,7 +4,7 @@
 
 **9:15 am**: [Pair Problem](pair.md)
 
-**10:00 am**: [SQL Lab](lab_SQL.md)
+**10:00 am**: [SQL schemas](SQL_schemas.pdf) and [SQL Lab](lab_SQL.md)
 
 **10:45 am**: Install [PostgreSQL](http://www.postgresql.org/) on your laptop!
 
